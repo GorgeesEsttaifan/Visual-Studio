@@ -1,0 +1,30 @@
+C:\Visual Studio AOL\1\Gorgees Esttaifan\bin\Debug\net8.0\appsettings.Development.json
+C:\Visual Studio AOL\1\Gorgees Esttaifan\bin\Debug\net8.0\appsettings.json
+C:\Visual Studio AOL\1\Gorgees Esttaifan\bin\Debug\net8.0\Gorgees Esttaifan.staticwebassets.runtime.json
+C:\Visual Studio AOL\1\Gorgees Esttaifan\bin\Debug\net8.0\Gorgees Esttaifan.exe
+C:\Visual Studio AOL\1\Gorgees Esttaifan\bin\Debug\net8.0\Gorgees Esttaifan.deps.json
+C:\Visual Studio AOL\1\Gorgees Esttaifan\bin\Debug\net8.0\Gorgees Esttaifan.runtimeconfig.json
+C:\Visual Studio AOL\1\Gorgees Esttaifan\bin\Debug\net8.0\Gorgees Esttaifan.dll
+C:\Visual Studio AOL\1\Gorgees Esttaifan\bin\Debug\net8.0\Gorgees Esttaifan.pdb
+C:\Visual Studio AOL\1\Gorgees Esttaifan\obj\Debug\net8.0\Gorgees Esttaifan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio AOL\1\Gorgees Esttaifan\obj\Debug\net8.0\Gorgees Esttaifan.AssemblyInfoInputs.cache
+C:\Visual Studio AOL\1\Gorgees Esttaifan\obj\Debug\net8.0\Gorgees Esttaifan.AssemblyInfo.cs
+C:\Visual Studio AOL\1\Gorgees Esttaifan\obj\Debug\net8.0\Gorgees Esttaifan.csproj.CoreCompileInputs.cache
+C:\Visual Studio AOL\1\Gorgees Esttaifan\obj\Debug\net8.0\Gorgees Esttaifan.MvcApplicationPartsAssemblyInfo.cache
+C:\Visual Studio AOL\1\Gorgees Esttaifan\obj\Debug\net8.0\Gorgees Esttaifan.RazorAssemblyInfo.cache
+C:\Visual Studio AOL\1\Gorgees Esttaifan\obj\Debug\net8.0\Gorgees Esttaifan.RazorAssemblyInfo.cs
+C:\Visual Studio AOL\1\Gorgees Esttaifan\obj\Debug\net8.0\staticwebassets.build.json
+C:\Visual Studio AOL\1\Gorgees Esttaifan\obj\Debug\net8.0\staticwebassets.development.json
+C:\Visual Studio AOL\1\Gorgees Esttaifan\obj\Debug\net8.0\staticwebassets\msbuild.Gorgees Esttaifan.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Visual Studio AOL\1\Gorgees Esttaifan\obj\Debug\net8.0\staticwebassets\msbuild.build.Gorgees Esttaifan.props
+C:\Visual Studio AOL\1\Gorgees Esttaifan\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Gorgees Esttaifan.props
+C:\Visual Studio AOL\1\Gorgees Esttaifan\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Gorgees Esttaifan.props
+C:\Visual Studio AOL\1\Gorgees Esttaifan\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Visual Studio AOL\1\Gorgees Esttaifan\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Visual Studio AOL\1\Gorgees Esttaifan\obj\Debug\net8.0\scopedcss\bundle\Gorgees Esttaifan.styles.css
+C:\Visual Studio AOL\1\Gorgees Esttaifan\obj\Debug\net8.0\scopedcss\projectbundle\Gorgees Esttaifan.bundle.scp.css
+C:\Visual Studio AOL\1\Gorgees Esttaifan\obj\Debug\net8.0\Gorgees Esttaifan.dll
+C:\Visual Studio AOL\1\Gorgees Esttaifan\obj\Debug\net8.0\refint\Gorgees Esttaifan.dll
+C:\Visual Studio AOL\1\Gorgees Esttaifan\obj\Debug\net8.0\Gorgees Esttaifan.pdb
+C:\Visual Studio AOL\1\Gorgees Esttaifan\obj\Debug\net8.0\Gorgees Esttaifan.genruntimeconfig.cache
+C:\Visual Studio AOL\1\Gorgees Esttaifan\obj\Debug\net8.0\ref\Gorgees Esttaifan.dll
